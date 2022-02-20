@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "firstName": "Rashmi",
+      "lastName": "Pawaskar",
+      "email": "rashmi@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "sonam",
+      "lastname": "Kaslikar",
+      "primaryEmail": "prathamkaslikar123@gmail.com",
+      "gender": "female",
+      "mobileNo": "08624955957",
+      "currentLoc": "",
+      "loanAmount": ""
+    },
+    {
+      "id": 4,
+      "firstname": "sonam",
+      "lastname": "Kaslikarhhhh",
+      "primaryEmail": "prathamkaslikar123@gmail.com",
+      "gender": "female",
+      "mobileNo": "",
+      "currentLoc": "",
+      "loanAmount": ""
+    }
+  ]
+}
